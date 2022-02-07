@@ -11,6 +11,7 @@
 	</head>
 	<body>
 		<h3>상풍 등록</h3>
+		<h3>상풍 등록</h3>수정
 		
 		<form method="post" action="/mybatis/product/insertProduct">
 			<table>
